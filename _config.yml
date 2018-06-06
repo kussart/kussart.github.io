@@ -9,8 +9,8 @@
 title: Pitel A. blog
 email: artem.pitel@gmail.com
 description: Developer reflection
-baseurl: "https://kussart.github.io" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kussart.github.io" # the base hostname & protocol for your site
 github_username:  kussart
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
