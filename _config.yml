@@ -9,7 +9,7 @@
 title: Pitel A. blog
 email: artem.pitel@gmail.com
 description: Developer reflection
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://kussart.github.io" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  kussart
 paginate: 5
