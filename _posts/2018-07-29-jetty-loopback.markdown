@@ -4,9 +4,9 @@ comments: true
 title:  "Jetty and loopback"
 ---
 
-One day i have got the simple task from my QA department to compel my Jetty server to run on loopback for further support improvements.
-Fortunatly it turned out quite simply as a result, but in the process of searching some info about it i'v spent a lot of time. 
-So, I decidet to put this info to help you and make something like reminder for myself.
+One day I have got the simple task from my QA department to compel my Jetty server to run on loopback for further support improvements.
+Fortunately, it turned out quite simply as a result, but in the process of searching some info about it, I've spent a lot of time.
+So, I decided to put this info to help you and make something like a reminder for myself.
 
 Let's see my main server run class:
 

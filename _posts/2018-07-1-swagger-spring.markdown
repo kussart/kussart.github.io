@@ -8,23 +8,11 @@ title:  "Swagger for your Spring REST API?"
 Sometimes you sit and do some part of your work, you set up your beautiful server, adding new functionality, new controllers, logic and so on. 
 
 And while you're debugging everything, a group of interested  front-end  developers sits literally in anticipation, when they can finally fix the administrative part so that users enjoy browsing into their account with a new and amazing functionality.
-And there are questions:
 
-*-What did you do there, Artem? How does it work, how should we understand what your new controller is waiting for and what it will return, and if NULL, where to show the modal window?*
+My server was not described by any API, really, there was no description absolutely, everything was done by sorting out some special cases, the problems were solved on the knee and it was violated the balance of the peaceful developer's universe. 
 
-*-Damn!*
-
-
-My server was not described by any API, really, there was no description absolutely, everything was done by sorting out some special cases, the problems were solved on the knee and it was violated the balance of the peaceful developers universe. 
-
-*-This is unforgivable!*
-
-I decided to describe the whole thing, but then I was horrified by the number of controllers and variants, examples, etc. Do not write it all in hand, it can not be for me.
-
-Of course there is already a long time convenient tools for automatic API generation for your services, which will do everything for you with the correct configuration.
+Of course, there is already a long time convenient tools for automatic API generation for your services, which will do everything for you with the correct configuration.
 In our case, I'll talk about the configuration of *Swagger 2* + *Spring Framework* (with XML config) + *Shiro* + *Maven* to show our API at *.../rest/swagger-ui.html*
-
-
 
 To begin with, let's connect the libraries via Maven, adding to *pom.xml*:
 
@@ -122,7 +110,7 @@ public List<Test> get() {
 
 All, now, if you did everything right, after launching your application, you can go to the browser on the path you_path/rest/swagger-ui.html
 and see the description of each controller and the ability to send test queries.
-For more details you can visit [https://swagger.io/specification/](https://swagger.io/specification/)	
+For more details, you can visit [https://swagger.io/specification/](https://swagger.io/specification/)	
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
