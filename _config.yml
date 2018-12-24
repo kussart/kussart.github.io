@@ -12,6 +12,8 @@ description: Developer reflection
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kussart.github.io" # the base hostname & protocol for your site
 github_username:  kussart
+linkedin_username: artem-pitel-a66b7b16a
+facebook_username: artem.pitel.50
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
