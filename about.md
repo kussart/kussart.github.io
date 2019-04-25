@@ -10,10 +10,10 @@ I hold a master’s degree in CS.
 
 ### Technologies stack:
 
-_Spring Framework, Spring Boot, Hibernate ORM, MySQL, PostgreSQL, Git, JavaScript, 
+Spring Framework, Spring Boot, Hibernate ORM, MySQL, PostgreSQL, Git, JavaScript, 
 HTML, Apache Tomcat, JDBC, Apache Maven, JUnit, OOP, jQuery, CSS, Java SE, Java EE, 
-Thymeleaf, Mockito, Bootstrap, JSP, JSON, REST, Google API, SIP
+Thymeleaf, Mockito, Bootstrap, JSP, JSON, REST, Google API, SIP, AWS, Docker, CI/CD
 
 ### Contact me: 
-[artem.pitel@gmail.com](mailto:artem.pitel@gmail.com)
+*[artem.pitel@gmail.com](mailto:artem.pitel@gmail.com)*
 
